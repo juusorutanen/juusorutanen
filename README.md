@@ -1,4 +1,4 @@
-# ⚡ Juuso Rutanen
+# ⚡ Juuso Rutanen ⚡
 
 
 ** Software Developer from Helsinki **
