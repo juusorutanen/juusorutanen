@@ -20,7 +20,7 @@ I am an aspiring software developer learning something new every day. Mostly wor
 
 
 
-<hr/>
+<h3 align="left">Stats:</h3>
 
 
 
