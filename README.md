@@ -26,7 +26,9 @@ I am an aspiring software developer learning something new every day. Mostly wor
 
 
 ![Juuso's GitHub stats](https://github-readme-stats.vercel.app/api?username=juusorutanen&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juusorutanen)](https://github.com/juusorutanen/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juusorutanen&show_icons=true&theme=merko&locale=en&layout=compact" alt="juusorutanen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juusorutanen&theme=dark" alt="juusorutanen" /></p>
 
 
 
