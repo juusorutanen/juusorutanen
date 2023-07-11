@@ -18,7 +18,8 @@ I am an aspiring software developer learning something new every day. Mostly wor
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
-
+<br/>
+<br/>
 
 <h3 align="left">Stats:</h3>
 
