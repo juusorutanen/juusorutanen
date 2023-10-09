@@ -3,7 +3,7 @@
 
 ** Software Developer from Helsinki **
 
-I a software developer learning something new every day. Mostly working with React.
+I am a software/web developer learning something new every day. Mostly working with React.
 
 
 <h3 align="left">Languages and Tools:</h3>
