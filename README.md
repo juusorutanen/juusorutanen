@@ -3,7 +3,7 @@
 
 ** Software Developer from Helsinki **
 
-I am a software/web developer learning something new every day. Mostly working with React and Next.js. I like to be creative and make things look nice.
+I am a software/web developer learning something new every day. I like to be creative and make things look nice and user-friendly.
 You can reach me at https://juusorutanen.com/.
 
 
