@@ -1,9 +1,9 @@
 # ⚡ Juuso Rutanen ⚡
 
 
-** Software Developer from Helsinki **
+** Frontend Developer from Helsinki **
 
-I am a software/web developer learning something new every day. I like to be creative and make things look nice and user-friendly.
+I am a frontend/web developer learning something new every day. I like to be creative and make things look nice and user-friendly.
 You can reach me at https://juusorutanen.com/.
 
 
