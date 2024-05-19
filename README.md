@@ -29,7 +29,7 @@ You can reach me at https://juusorutanen.com/.
 ![Juuso's GitHub stats](https://github-readme-stats.vercel.app/api?username=juusorutanen&show_icons=true&theme=merko)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juusorutanen&show_icons=true&theme=merko&locale=en&layout=compact" alt="juusorutanen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juusorutanen&theme=dark" alt="juusorutanen" /></p>
+
 
 
 
